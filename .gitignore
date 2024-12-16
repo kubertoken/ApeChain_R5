@@ -1,0 +1,4 @@
+node_modules/
+artifacts/
+ignition/deployments/
+.env
